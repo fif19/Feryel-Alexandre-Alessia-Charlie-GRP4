@@ -1,1 +1,40 @@
+h1{
+    width: 169px;
+height: 95px;
+font-family: Inter;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: 60px; /* 300% */
+letter-spacing: 9px;
+background: linear-gradient(180deg, #EE1616 0%, rgba(208, 23, 167, 0.00) 89.58%);
+background-clip: text;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+text-align: center;
+position: relative; left:50%;
+}
+body {
 
+background-color: black;
+
+}
+
+ul{ 
+    width: 164px;
+height: 46px;
+
+color: #FF1D1D;
+font-family: Inter;
+font-size: 14px;
+font-style: italic;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.28px;
+}
+
+img{ 
+    width: 152px;
+height: 171px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
